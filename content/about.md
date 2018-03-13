@@ -4,23 +4,9 @@ date: 2018-03-13T19:34:52+07:00
 draft: false
 ---
 
-Hugo is a static site engine written in Go.
+<img style="float: left; width: 100px; margin-right: 10px;" src="https://firebasestorage.googleapis.com/v0/b/trontria-b75ee.appspot.com/o/28424473_10155550849818235_8250724160280366139_o.jpg?alt=media&token=0667374a-abc9-4e34-b1cd-a9ef9c6c3138" />
 
-It makes use of a variety of open source projects including:
 
-Cobra
-Viper
-J Walter Weatherman
-Cast
-Learn more and contribute on GitHub.
-
-Setup
-Some fun facts about Hugo:
-
-Built in Go
-Loosely inspired by Jekyll
-Primarily developed by spf13 on the train while commuting to and from Manhattan.
-Coded in Vim using spf13-vim
-Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.
-
-Thanks for reading!
+With no good intention, trying to make the world a better place.  
+Trillingual.  
+Better when inner insanity gets to show.  
