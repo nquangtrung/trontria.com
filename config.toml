@@ -1,7 +1,15 @@
-baseURL = "https://trontria.com/"
+baseURL = "https://trontria.com"
 languageCode = "en-us"
-title = "trontria"
-theme = "hyde" # set the theme
+title = "tròn trịa"
+theme = "purehugo"
+Paginate = 10
 
 [params]
-  themeColor = "theme-base-08"
+  # twitterName = "nquangtrung90"
+  githubName = "nquangtrung"
+  # stackOverflowId = "#######"
+  linkedinName = "trung-nguyễn-109b523a"
+  facebookName = "supertrontria"
+  description = "tech, art and life"
+  google_analytics = "UA-xxxxxx-xx"
+  hideSidebarIconText = true

@@ -10,3 +10,9 @@
 [submodule "themes/hyde"]
 	path = themes/hyde
 	url = https://github.com/spf13/hyde.git
+[submodule "themes/black-and-light"]
+	path = themes/black-and-light
+	url = https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git
+[submodule "themes/purehugo"]
+	path = themes/purehugo
+	url = https://github.com/dplesca/purehugo.git
